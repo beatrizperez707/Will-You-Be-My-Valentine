@@ -1,0 +1,13 @@
+body {
+  background:#0c0a0a;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+img{
+  width: 700px;
+  height: 500px;
+}
