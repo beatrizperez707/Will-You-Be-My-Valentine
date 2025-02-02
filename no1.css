@@ -1,0 +1,50 @@
+body {
+  background:pink;
+  text-align: center;
+}
+p {
+  color:#cf0029;
+}
+h1{
+  color: crimson;
+}
+h3 {
+  font-weight: bold;
+  color:#cf0029;
+}
+
+img {
+  border-style: solid;
+  border-color: black;
+  border-radius: 5px;
+  width: 600px;
+  height: 300px;
+}
+.buttons {
+  justify-content: space-around;
+  align-content: center;
+  height: 40px;
+  margin: 20px;
+}
+
+a {
+  border-style:ridge;
+  border-color:crimson; 
+  border-radius: 20px;
+  padding:15px;
+  text-decoration:none;
+  background-color:bisque;
+}
+a:link {
+  font-size: 15px;
+  color:brown;
+  font-weight: bold;
+}
+
+a:hover {
+  color:brown;
+  background-color:pink;
+  font-size: 16px;
+  border-radius: 20px;
+}
+
